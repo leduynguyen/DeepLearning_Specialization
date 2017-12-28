@@ -34,8 +34,8 @@ You will:
 
 :rocket: **Projects**
 1. Initialization
-2. Regularizati
-3. Gradient Checkingon
+2. Regularization
+3. Gradient Checking
 4. Optimization
 5. Tensorflow
 
