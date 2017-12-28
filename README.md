@@ -14,12 +14,14 @@ You will learn the foundations of deep learning:
 
 This course also teaches you how Deep Learning actually works, rather than presenting only a cursory or surface-level description. So after completing it, you will be able to apply deep learning to a your own applications. If you are looking for a job in AI, after this course you will also be able to answer basic interview questions.
 
-:rocket: **Projects** 
+**Projects** 
 1. Python Basics with Numpy
 2. Logistic Regression with a Neural Network mindset
 3. Planar data classification with a hidden layer
 4. Building your Deep Neural Network - Step by Step
 5. Deep Neural Network Application
+
+[**Accomplishment**](https://www.coursera.org/account/accomplishments/certificate/TAAU4VCUWUKT)
 
 ## [**Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**](https://www.coursera.org/learn/deep-neural-network)
 
@@ -32,12 +34,14 @@ You will:
 - Understand new best-practices for the deep learning era of how to set up train/dev/test sets and analyze bias/variance
 - Be able to implement a neural network in TensorFlow.
 
-:rocket: **Projects**
+**Projects**
 1. Initialization
 2. Regularization
 3. Gradient Checking
 4. Optimization
 5. Tensorflow
+
+[**Accomplishment**](https://www.coursera.org/account/accomplishments/certificate/AYA5MVY2KBM5)
 
 ## [**Structuring Machine Learning Projects**](https://www.coursera.org/learn/machine-learning-projects)
 
@@ -61,7 +65,7 @@ You will:
 - Know to use neural style transfer to generate art.
 - Be able to apply these algorithms to a variety of image, video, and other 2D or 3D data.
 
-:rocket: **Projects**
+**Projects**
 1. Convolutional Model - Step by Step
 2. Convolutional Model - Application
 3. Keras Tutorial - The Happy House
@@ -69,6 +73,8 @@ You will:
 5. Car detection with YOLOv2
 6. Face Recognition for the Happy House
 7. Art generation with Neural Style Transfer
+
+[**Accomplishment**](https://www.coursera.org/account/accomplishments/certificate/JJ97BCZ4UHNB)
 
 ## [**Sequence Models**](https://www.coursera.org/learn/nlp-sequence-models)
 
@@ -79,4 +85,4 @@ You will:
 - Be able to apply sequence models to natural language problems, including text synthesis. 
 - Be able to apply sequence models to audio applications, including speech recognition and music synthesis.
 
-:rocket: **Projects**
+**Projects**
