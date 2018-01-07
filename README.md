@@ -55,7 +55,7 @@ You will:
 - Understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance
 - Know how to apply end-to-end learning, transfer learning, and multi-task learning
 
-[**Accomplishment**](https://www.coursera.org/account/accomplishments/verify/C6XCBBR2N53Y)
+[**Accomplishment**](https://www.coursera.org/account/accomplishments/certificate/C6XCBBR2N53Y)
 
 ## [**Convolutional Neural Networks**](https://www.coursera.org/learn/convolutional-neural-networks/home/info)
 
